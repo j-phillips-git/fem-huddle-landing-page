@@ -28,7 +28,7 @@ Users should be able to:
 ### Built with
 
 - HTML
-- CSS
+- SCSS
 
 ## Author
 
